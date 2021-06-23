@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Max Efremov
 
-I work at the intersection of technology and healthcare. I also write about data science, economics, book and article reviews and lots more at [my website](https://maxefremov.com).
+I'm a data scientist, machine learning engineer, and investor. I also write about data science, economics, book and article reviews and lots more at [my website](https://maxefremov.com).
 
 <!--
 **mefrem/mefrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
