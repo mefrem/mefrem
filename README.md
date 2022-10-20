@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Max Efremov
 
-I'm a data scientist, machine learning engineer, and investor. I also write about data science, economics, book and article reviews and lots more at [my website](https://maxefremov.com).
+I'm developer evangelist at Hiro, supporting blockchain application developers building on Stacks, a smart contract layer for bitcoin. Formerly a data scientist and machine learning developer. For more, you can check out [my website](https://maxefremov.com).
 
 <!--
 **mefrem/mefrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
