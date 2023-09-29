@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Max Efremov
+### 👋 Hey, I'm Max Efremov
 
-I'm developer evangelist at [Hiro](https://hiro.so/), supporting blockchain application developers building on Stacks, a smart contract layer for Bitcoin. Formerly a data scientist and machine learning developer. For more, you can check out [my website](https://maxefremov.com).
+I love building on Bitcoin and Stacks—the smart contract layer for Bitcoin. Before that, I was a data scientist and machine learning developer. For more, you can check out [my website](https://maxefremov.com).
 
 <!--
 **mefrem/mefrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
